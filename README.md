@@ -2,6 +2,8 @@
 
 Ball Covariance Ranking and Aggregation (BCRA) hypothesis test
 
+Paper: Dai, W., & Zhang, H. (2025). Identifying genetic variants for brain connectivity using Ball Covariance Ranking and Aggregation. Journal of the American Statistical Association, 1–18. https://doi.org/10.1080/01621459.2025.2450837
+
 ## Code
 
 Required codes are located under ./**code/\***, including `Ball-1.3.12.tar.gz`, `0-BCRA-transform-UKB.R` and `BallDistanceVector.cpp`.
